@@ -13,7 +13,8 @@ Ce projet propose une automatisation complète des flux de travail pour la gesti
 1. **Email** : Les emails sont reçus et capturés pour traitement.
 2. **Traitement ChatGPT** : Utilisation de ChatGPT pour extraire des informations clés comme la date, l'objet, le contenu et l'urgence de l'email.
 3. **Retranscription dans Google Sheets** : Les données extraites sont automatiquement transcrites dans une feuille Google Sheets pour un suivi structuré.
-   ![image](https://github.com/user-attachments/assets/050c359d-09ef-42e5-8cae-b199ddf8c174)
+![image](https://github.com/user-attachments/assets/aaa79c3d-df10-43c0-adcd-164286c06aa0)
+
 
 
 ### Workflow 2 : Automatisation des Réunions Google Meet
