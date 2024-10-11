@@ -1,5 +1,5 @@
 # Optimisation Automatisée des Emails et Réunions avec des Solutions IA
-![WhatsApp Image 2024-10-11 at 15 08 16 (1)](https://github.com/user-attachments/assets/0dc02283-f30c-40a2-b12c-5043d1ccd643)
+![s)](https://github.com/user-attachments/assets/0dc02283-f30c-40a2-b12c-5043d1ccd643)
 
 
 
