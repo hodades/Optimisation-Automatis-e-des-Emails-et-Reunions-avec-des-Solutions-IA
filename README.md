@@ -31,6 +31,8 @@ Ce projet propose une automatisation complète des flux de travail pour la gesti
 ### Résultat
 
 - **Envoi d'un Email avec le Résumé** : Une fois le résumé généré, on a le résultat dans notre folder sur le drive
+  ![ 2024-10-11 at 15 15 51](https://github.com/user-attachments/assets/371cfb9a-efdd-4335-a4e3-8a9e14a3c7cc)
+
   ![image](https://github.com/user-attachments/assets/632b5a53-f15b-40c0-9db0-acc17723e798)
 
 
