@@ -37,7 +37,7 @@ Ce projet propose une automatisation complète des flux de travail pour la gesti
 
 
 ## Technologies Utilisées
-
+J'ai choisi 5 minutes d'une video meeting random sur youtube : https://www.youtube.com/watch?v=rOqgRiNMVqg&t=2s
 - **ChatGPT** : Pour l'analyse et l'extraction d'informations à partir des emails.
 - **Google Sheets** : Pour stocker et organiser les données extraites des emails.
 - **Google Meet** : Outil de visioconférence utilisé pour organiser et enregistrer les réunions.
