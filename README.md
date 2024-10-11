@@ -19,14 +19,18 @@ Ce projet propose une automatisation complète des flux de travail pour la gesti
 
 ### Workflow 2 : Automatisation des Réunions Google Meet
 
-1. **Réunion Google Meet** : Enregistrement d'une réunion Google Meet.
+1. **Réunion Google Meet** : Enregistrement d'une réunion Google Meet dans un dossier dans le drive.
 2. **Enregistrer la Réunion et Stockage sur Google Drive** : La réunion est enregistrée et stockée dans Google Drive pour une utilisation ultérieure.
 3. **Speech-to-Text Whisper API** : Transcription de l'audio de la réunion en texte à l'aide de l'API Whisper.
 4. **Hugging Face (Modèle de Résumé Automatique)** : Utilisation de l'API Hugging Face pour générer automatiquement un résumé basé sur la transcription obtenue.
+   ![image](https://github.com/user-attachments/assets/fb9f50f8-6134-4809-81f9-c8bfa9c57718)
+
 
 ### Résultat
 
-- **Envoi d'un Email avec le Résumé** : Une fois le résumé généré, un email est envoyé automatiquement à tous les participants de la réunion avec un compte-rendu.
+- **Envoi d'un Email avec le Résumé** : Une fois le résumé généré, on a le résultat dans notre folder sur le drive
+  ![image](https://github.com/user-attachments/assets/632b5a53-f15b-40c0-9db0-acc17723e798)
+
 
 ## Technologies Utilisées
 
