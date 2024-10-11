@@ -44,7 +44,7 @@ Ce projet propose une automatisation complète des flux de travail pour la gesti
 
 1. **Pré-requis** :
    - Un compte Google pour utiliser Google Sheets, Google Meet, et Google Drive.
-   - Un compte Zapier pour automatiser le processus de connexion entre les différents outils.
+   - Un compte Make pour automatiser le processus de connexion entre les différents outils.
    - Accès à ChatGPT et Whisper API pour les fonctionnalités d'IA.
    - Accès à Hugging Face pour les modèles NLP de génération de résumés.
 
@@ -55,5 +55,5 @@ Ce projet propose une automatisation complète des flux de travail pour la gesti
 
 ## Auteurs
 
-Ce projet a été réalisé dans le cadre de l'automatisation des flux de travail en entreprise avec des outils IA et no-code.
+Ce projet a été réalisé dans le cadre de l'automatisation des flux de travail en entreprise avec des outils IA.
 
