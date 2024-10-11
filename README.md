@@ -64,7 +64,18 @@ J'ai choisi 5 minutes d'une video meeting random sur youtube : https://www.youtu
    - Configurer ChatGPT et Whisper API pour analyser les emails et transcrire les réunions.
    - Utiliser Hugging Face pour générer automatiquement des résumés.
 
-## Auteurs
+Voici le tableau Comparatif :
 
-Ce projet a été réalisé dans le cadre de l'automatisation des flux de travail en entreprise avec des outils IA.
+| **Tâche**                          | **Manuel**                   | **Automatisé avec IA**        |
+|-------------------------------------|------------------------------|-------------------------------|
+| **Lecture/Tri d'emails**            | 1 heure/jour                 | Quelques minutes/jour         |
+| **Enregistrement de réunions**      | 1 minute                     | Automatique                   |
+| **Prise de notes**                  | 30 min à 1 h par réunion     | Automatisé (Whisper API)      |
+| **Rédaction de compte-rendu**       | 30 min à 1 h par réunion     | Automatisé (Hugging Face)     |
+| **Envoi de compte-rendu**           | Manuel                       | Automatique                   |
+| **Temps total estimé (par semaine)**| 15 heures                    | ~1 à 2 heures                 |
+
+
+## Conclusion
+Grâce à l'automatisation avec des outils IA comme ChatGPT, Whisper API et Hugging Face, le workflow est considérablement accéléré, réduisant le temps de traitement des emails et des réunions de plusieurs heures par semaine à seulement quelques minutes. L'IA permet également de minimiser les erreurs humaines et d'améliorer l'efficacité globale.
 
